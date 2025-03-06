@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JaroslavKodousek
-- 👀 I’m interested in Automation, LCNC, RPA, Python. I work as RPA Developer using tools Automation Anywhere, Power Automate, Power Apps & Power BI.
-- 🌱 I’m currently learning Python & VBScript. I love LCNC tools.
-- 💞️ I’m looking to collaborate on automation projects.
+- 👀 I’m interested in Automation & AI.
+- 🌱 I’m keen on Python.
 - 📫 How to reach me: https://www.linkedin.com/in/jaroslav-kodousek/
 
 <!---
