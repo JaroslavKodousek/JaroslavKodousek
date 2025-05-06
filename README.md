@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaroslavKodousek
 - 👀 I’m interested in Automation & AI.
-- 🌱 I’m keen on Python.
+- 🌱 I love Python.
 - 📫 How to reach me: https://www.linkedin.com/in/jaroslav-kodousek/
 - 💼 Check out my Streamlit projects online:
   - https://recepty.streamlit.app/
